@@ -32,10 +32,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  json (= 2.2.0)
   nokogiri
   pry
   rspec (= 3.6)
   w3c_validators
 
 BUNDLED WITH
-   2.0.1
+   2.2.21
